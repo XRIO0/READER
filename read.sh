@@ -7,6 +7,7 @@ display_logo() {
  | |  | || | ___) ___) |  /  \\  |  _ < | | |_| |
  |_|  |_|___|____|____/  /_/\\_\\ |_| \\_|___\\___/
                                     version:- 1.0
+                                    ENDING:) 19-may-2024
                            https://github.com/XRIO0
 NOTE:- READ THE README.txt FOR OPTION AND USE
  "
